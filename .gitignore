@@ -4,4 +4,12 @@
 *.swp
 tags
 node_modules
-__pycache__
+__pycache_
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+.env
+.venv/
+venv/_
